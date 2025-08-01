@@ -1,4 +1,6 @@
-Hola, soy estudiante de tercer año de Ingeniería Informática. Actualmente estoy profundizando mis conocimientos en desarrollo de software, estructuras de datos, algoritmos y sistemas operativos. Me gusta aprender haciendo, por eso uso GitHub para practicar, compartir mis proyectos y seguir mejorando.
+# 👋 Hola mi nombre es Manuel Gonzalez
+
+Soy estudiante de tercer año de Ingeniería Informática. Actualmente estoy profundizando mis conocimientos en desarrollo de software, estructuras de datos, algoritmos y sistemas operativos. Me gusta aprender haciendo, por eso uso GitHub para practicar, compartir mis proyectos y seguir mejorando.
 
 🛠️ **Tecnologías que estoy aprendiendo y utilizando:**  
 - Lenguajes: Python, C++, JavaScript  
