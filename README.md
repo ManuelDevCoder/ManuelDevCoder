@@ -5,7 +5,7 @@ Hola, soy estudiante de tercer año de Ingeniería Informática. Actualmente est
 🛠️ **Tecnologías que estoy aprendiendo y utilizando:**  
 - Lenguajes: Python, C++, JavaScript  
 - Frameworks: React, Node.js, Django (en proceso)  
-- Herramientas: Git, Linux, SQL, Docker (básico)
+- Herramientas: Git, SQL, Docker (básico)
 
 💡 Me interesa el desarrollo web, la inteligencia artificial y la automatización. Estoy abierto a colaborar en proyectos, contribuir en open source o simplemente seguir aprendiendo junto a la comunidad.
 
